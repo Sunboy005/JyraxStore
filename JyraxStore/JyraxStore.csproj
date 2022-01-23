@@ -16,7 +16,6 @@
 
   <ItemGroup>
     <Folder Include="Views\AppUsers\" />
-    <Folder Include="Views\Orders\" />
   </ItemGroup>
 
 </Project>
