@@ -1,5 +1,3 @@
-using System;
-
 namespace JyraxStore.Models
 {
     public class ErrorViewModel
