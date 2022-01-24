@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace JyraxStore.Models
 {
-    public class Product:BaseEntity
+    public class Product : BaseEntity
     {
         [Required]
         public string Name { get; set; }
@@ -14,8 +14,7 @@ namespace JyraxStore.Models
         [Required]
         public decimal? Price { get; set; }
 
-        public List<ProductImages> Images { get; set; }
-        public Product Products { get; set; }
+        public List<ProductImage> Images { get; set; }
 
         [Required]
         public string PostedBy { get; set; }

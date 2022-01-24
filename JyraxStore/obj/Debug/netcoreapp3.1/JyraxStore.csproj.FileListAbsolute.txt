@@ -53,7 +53,6 @@ C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\bin\Debug\netc
 C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\JyraxStore.csproj.AssemblyReference.cache
 C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\JyraxStore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\JyraxStore.AssemblyInfoInputs.cache
 C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\JyraxStore.AssemblyInfo.cs
@@ -153,3 +152,11 @@ C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\bin\Debug\netc
 C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\JyraxStore.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\Razor\Views\Category\CreateCategory.cshtml.g.cs
+C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\Razor\Views\Category\EditCategory.cshtml.g.cs
+C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\hp\Desktop\Ewallet Project\JyraxStoreSolution\JyraxStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
