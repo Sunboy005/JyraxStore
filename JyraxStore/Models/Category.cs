@@ -15,12 +15,5 @@ namespace JyraxStore.Models
         [StringLength(100, ErrorMessage ="Name cannot be empty")][MinLength(3)]
         [Display(Name = "Description")]
         public string CategoryDescription { get; set; }
-
-        public string CreatedBy { get; set; } = "Admin";
-        public AppUser Appuser { get; set; }
-
-
-
-
     }
 }
